@@ -1,0 +1,10 @@
+.DS_Store
+._.DS_Store
+__pycache__/
+convert_folder/
+convert_folder_01/
+cut_folder/
+data_folder
+logs/
+merge_folder/
+outputs/
